@@ -16,7 +16,17 @@
   v(0.3em)
   line(length: 60%, stroke: 0.6pt)
 }
+#let cal(s) = text(font: "jsMath-cmsy10")[#math.upright(s)]
 
+#let fourier(a) = $
+                    cal(F)" "[#a]
+                  $
+#let prim(a, b) = $
+                    #a'_(#b)
+                  $
+#let bis(a, b) = $
+                   #a''_(#b #b)
+                 $
 #let projection(a, b) = $
                           P_([#a])#b
                         $
@@ -26,7 +36,6 @@
 #let projectionfull(a, b) = $
                               innerp(#a, #b)/innerp(#a, #a)#a
                             $
-#let cal(s) = text(font: "jsMath-cmsy10")[#math.upright(s)]
 
 #let infint = $
                 integral_(-infinity)^infinity

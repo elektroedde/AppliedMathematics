@@ -1,0 +1,8 @@
+{
+  "Typst template import": {
+    "scope": "typst",
+    "prefix": "template",
+    "body": ["#import \"../template.typ\": *", "$0"],
+    "description": "Import shared template"
+  }
+}

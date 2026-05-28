@@ -3,3 +3,7 @@
 
 # Claude Code
 .claude/
+
+# Auto-generated chapter collector files (root only)
+/*.typ
+
