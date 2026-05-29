@@ -1,7 +1,6 @@
 #import "../template.typ": *
 
-=
-Show that 
+= S.7
 $
   sum_(-infinity)^infinity abs(J_n (r))^2 = 1
 $

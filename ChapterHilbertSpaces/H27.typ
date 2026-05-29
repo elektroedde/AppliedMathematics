@@ -1,7 +1,6 @@
 #import "../template.typ": *
 
-=
-Let $p_k"," k=0,1,2 dots$ be orthogonal polynomials of degree $p_k = k$.
+= H.27
 
 (a) Show that $p_n$ is orthogonal to all polynomials of degree $p < n$
 

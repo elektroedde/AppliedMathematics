@@ -1,7 +1,6 @@
 #import "../template.typ": *
 
-=
-Calculate $f' "and" f''$ in distributions for
+= D.6
 
 (a) $f(x) = e^(-x) theta(x)$
 

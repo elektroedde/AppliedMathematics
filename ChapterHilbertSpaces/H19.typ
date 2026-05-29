@@ -1,7 +1,6 @@
 #import "../template.typ": *
 
-= 
-Let $cal(V)$ define the linear space containing all real functions on the interval $[-1, 1]$ that are constant on all four subdomains $[-1, -1/2)", "[-1/2, 0)", "[0, 1/2)", "[1/2, 1]$
+= H.19
 
 (a) Give an orthogonal base in $cal(V)$ with the scalar product
 $

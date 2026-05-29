@@ -1,7 +1,6 @@
 #import "../template.typ": *
 
-= 
-Determine $a$ and $b$ such that the integral 
+= H.18
 $
   integral_0^pi (x - a sin(x) - b sin(2x))^2 dif x
 $

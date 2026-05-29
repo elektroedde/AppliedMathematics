@@ -1,7 +1,6 @@
 #import "../template.typ": *
 
-= 
-Let $I = (0, 2]$
+= S.14
 $
   cal(A) u = -1/x (x u')'\
   D_cal(A) = {u in cal(C)^2(I) | u "bounded near"  0, u'(2) = 0}

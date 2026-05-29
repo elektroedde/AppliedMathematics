@@ -1,7 +1,6 @@
 #import "../template.typ": *
 
-= 
-Let
+= H.33
 $
   f_n (x) = x^n", " x in I = [0,1]", " n=0,1,dots
 $

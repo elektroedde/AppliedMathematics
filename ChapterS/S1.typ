@@ -1,7 +1,6 @@
 #import "../template.typ": *
 
-=
-Determine the values of $Gamma(3), Gamma(1/2), Gamma(-1/2)$.
+= S.1
 
 #solution[
   Using the definition of $Gamma(z)$:

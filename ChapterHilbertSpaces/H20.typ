@@ -1,7 +1,6 @@
 #import "../template.typ": *
 
-= 
-Determine the (a) first degree polynomial, (b) the second degree polynomial, that best approximates $x^4$ in $L_2(w, I)$, where $w(x) = x$ and $I = [0, 1]$.
+= H.20
 
 #solution[
   For this setup, the scalar product is defined as 

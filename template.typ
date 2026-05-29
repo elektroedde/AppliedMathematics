@@ -16,10 +16,22 @@
   v(0.3em)
   line(length: 60%, stroke: 0.6pt)
 }
+
+#let laplacian = $ laplace $
 #let cal(s) = text(font: "jsMath-cmsy10")[#math.upright(s)]
 
 #let fourier(a) = $
                     cal(F)" "[#a]
+                  $
+#let fourierinv(a) = $
+                    cal(F)^(-1)" "[#a]
+                  $
+
+#let laplace(a) = $
+                    cal(L)" "[#a]
+                  $
+#let laplaceinv(a) = $
+                    cal(L)^(-1)" "[#a]
                   $
 #let prim(a, b) = $
                     #a'_(#b)

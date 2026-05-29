@@ -1,7 +1,6 @@
 #import "../template.typ": *
 
-= 
-String with length L and a point mass at $x=a$
+= D.1
 
 #solution[
   $

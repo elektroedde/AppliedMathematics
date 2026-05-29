@@ -1,7 +1,6 @@
 #import "../template.typ": *
 
-= 
-Solve the equation
+= D.12
 $
   u'(x) + (2x+1)u(x) = delta'(x)
 $

@@ -1,7 +1,6 @@
 #import "../template.typ": *
 
-=
-(a) Show by differentiating the power series that
+= S.11
 $
   dv(,x)((J_nu (x))/x^nu) = - (J_(nu+1)(x))/x^nu
 $

@@ -1,7 +1,6 @@
 #import "../template.typ": *
 
-=
-Show that 
+= D.4
 
 (a) $g(x) delta'(x) = g(0)delta'(x)-g'(0)delta(x)$
 

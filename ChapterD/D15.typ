@@ -1,7 +1,6 @@
 #import "../template.typ": *
 
-= 
-Determine all distribution solution to
+= D.15
 
 (a) $x U = 0$
 

@@ -15,11 +15,11 @@ Solutions to problems from *Kontinuerliga System*. Each problem's solution is wr
 
 ## Progress
 
-**24 / 144 problems complete (16%)**
+**34 / 144 problems complete (23%)**
 
 ---
 
-### Kapitel 1 &nbsp;·&nbsp; 16 problems
+### Chapter 1 &nbsp;·&nbsp; 16 problems
 
 <table>
 <tr><td>1 ❌</td><td>3 ❌</td><td>4 ❌</td><td>5 ❌</td><td>8 ❌</td><td>11 ❌</td><td>12 ❌</td><td>13 ❌</td></tr>
@@ -53,8 +53,8 @@ Solutions to problems from *Kontinuerliga System*. Each problem's solution is wr
 
 <table>
 <tr><td>1 ✅</td><td>4 ✅</td><td>5 ✅</td><td>6 ✅</td><td>8 ✅</td><td>9 ✅</td><td>12 ✅</td><td>15 ✅</td></tr>
-<tr><td>17 ❌</td><td>18 ❌</td><td>22 ❌</td><td>23 ❌</td><td>24 ❌</td><td>27 ❌</td><td>29 ❌</td><td>30 ✅</td></tr>
-<tr><td>31 ❌</td><td>36 ❌</td><td>41 ❌</td><td>(10) ❌</td><td>(25) ❌</td><td>(34) ❌</td><td></td><td></td></tr>
+<tr><td>17 ✅</td><td>18 ✅</td><td>22 ✅</td><td>23 ✅</td><td>24 ✅</td><td>27 ✅</td><td>29 ✅</td><td>30 ✅</td></tr>
+<tr><td>31 ✅</td><td>36 ✅</td><td>41 ✅</td><td>(10) ❌</td><td>(25) ❌</td><td>(34) ❌</td><td></td><td></td></tr>
 </table>
 
 ### Kapitel 3.4– &nbsp;·&nbsp; 16 problems

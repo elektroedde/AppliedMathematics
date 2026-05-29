@@ -1,7 +1,6 @@
 #import "../template.typ": *
 
-=
-Determine the general solution to
+= S.13
 
 (a) $r^2 y'' + r y' = 0$
 

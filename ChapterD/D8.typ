@@ -1,8 +1,6 @@
 #import "../template.typ": *
 
-=
-
-(a) Calculate the derivative of $x^2 theta(x-1)$
+= D.8
 
 (b) Determine all primitive distributions for $x theta(x-1)$ 
 #solution[

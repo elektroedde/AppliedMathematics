@@ -1,7 +1,6 @@
 #import "../template.typ": *
 
-=
-Simplify
+= D.5
 
 (a) $e^x delta_1$
 

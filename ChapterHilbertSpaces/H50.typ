@@ -1,7 +1,6 @@
 #import "../template.typ": *
 
-=
-The operator $cal(A)$ is defined as
+= H.50
 $
   cal(A) = -sqrt(1-x^2)dv(, x)(sqrt(1-x^2)dv(,x)) \
   D_cal(A) = {u in cal(C)^2(-1, 1) | u "and" u' "bounded/limited"}

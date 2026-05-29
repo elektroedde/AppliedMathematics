@@ -1,7 +1,6 @@
 #import "../template.typ": *
 
-= 
-A string with length 1. A force $F$ acts on the string at a point, distance $a$ from the strings left end. The force is perpendicular to the string. No other external forces act on the string. Write out the differential equation and boundary conditions for the strings stationary and solve the problem.
+= D.9
 #solution[
 
 $
