@@ -294,7 +294,7 @@ def main() -> None:
     (root / "README.md").write_text(build_readme(root), encoding="utf-8")
 
     print("Compiling PDFs …")
-    compile_pdfs(collectors)
+    compile_pdfs(collectors + [root / "main.typ"])
 
     print("Done.")
 

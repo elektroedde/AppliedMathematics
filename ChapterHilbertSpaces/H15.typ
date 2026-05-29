@@ -3,6 +3,7 @@
 
 = H.15
 
+$
   innerp(u, v) = infint u(x)v(x) e^(-x^2)/sqrt(pi) dif x
 $
 Determine the first three Hermite polynomials
