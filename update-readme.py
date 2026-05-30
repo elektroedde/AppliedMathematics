@@ -26,7 +26,7 @@ CHAPTERS = [
       "15","19","21","22","24a","25","(17)","(24bc)"]),
 
     ("Kapitel H — Hilbert Spaces",
-     "ChapterHilbertSpaces", "H", "ChapterH", "Hilbert Spaces", "H",
+     "ChapterH", "H", "ChapterH", "Hilbert Spaces", "H",
      ["1","2","3","4","5a","11","12","13",
       "15","18","19","20a","27","33","38","39",
       "47","50","51","52","55","(20b)","(30)","(31)",

@@ -20,6 +20,7 @@
 #let laplacian = $ laplace $
 #let cal(s) = text(font: "jsMath-cmsy10")[#math.upright(s)]
 
+#let cm = $, space space$
 #let fourier(a) = $
                     cal(F)" "[#a]
                   $
@@ -90,6 +91,7 @@ $
   radius: 3pt,
   $display(#body)$
 )
+
 
 #let chapter(title: "", number: 1, body) = {
   set document(title: title, author: "Edvin")

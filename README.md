@@ -15,7 +15,7 @@ Solutions to problems from *Kontinuerliga System*. Each problem's solution is wr
 
 ## Progress
 
-**57 / 144 problems complete (39%)**
+**65 / 144 problems complete (45%)**
 
 ---
 
@@ -36,9 +36,9 @@ Solutions to problems from *Kontinuerliga System*. Each problem's solution is wr
 ### Kapitel H — Hilbert Spaces &nbsp;·&nbsp; 26 problems
 
 <table>
-<tr><td>1 ❌</td><td>2 ❌</td><td>3 ❌</td><td>4 ❌</td><td>5a ❌</td><td>11 ❌</td><td>12 ❌</td><td>13 ❌</td></tr>
-<tr><td>15 ✅</td><td>18 ✅</td><td>19 ✅</td><td>20a ✅</td><td>27 ✅</td><td>33 ✅</td><td>38 ❌</td><td>39 ❌</td></tr>
-<tr><td>47 ❌</td><td>50 ✅</td><td>51 ❌</td><td>52 ❌</td><td>55 ✅</td><td>(20b) ✅</td><td>(30) ❌</td><td>(31) ❌</td></tr>
+<tr><td>1 ❌</td><td>2 ❌</td><td>3 ✅</td><td>4 ✅</td><td>5a ✅</td><td>11 ✅</td><td>12 ✅</td><td>13 ✅</td></tr>
+<tr><td>15 ✅</td><td>18 ✅</td><td>19 ✅</td><td>20a ✅</td><td>27 ✅</td><td>33 ✅</td><td>38 ❌</td><td>39 ✅</td></tr>
+<tr><td>47 ✅</td><td>50 ✅</td><td>51 ❌</td><td>52 ❌</td><td>55 ✅</td><td>(20b) ✅</td><td>(30) ❌</td><td>(31) ❌</td></tr>
 <tr><td>(36) ❌</td><td>(45) ❌</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
