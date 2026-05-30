@@ -16,12 +16,12 @@ from pathlib import Path
 #   Parens = bonus/optional.  + is preserved in display, mapped to _ in filename.
 CHAPTERS = [
     ("Chapter 1",
-     "Chapter1", "K1_", "Chapter1", "Chapter 1 - Mathematical Models", "1",
+     "Chapter1", "", "Chapter1", "Chapter 1 - Mathematical Models", "1",
      ["1","3","4","5","8","11","12","13",
       "14","15","18","21","22","(10)","(23)","(26)"]),
 
     ("Kapitel 3.1–3.3",
-     "Chapter3_1", "K31_", "Chapter3_1", "Chapter 3.1–3.3 - Fouriers Method I", "3A",
+     "Chapter3_1", "", "Chapter3_1", "Chapter 3.1–3.3 - Fouriers Method I", "3A",
      ["2","5","7","8","10","12","13","14",
       "15","19","21","22","24a","25","(17)","(24bc)"]),
 
@@ -44,22 +44,22 @@ CHAPTERS = [
       "31","36","41","(10)","(25)","(34)"]),
 
     ("Kapitel 3.4–",
-     "Chapter3_4", "K34_", "Chapter3_4", "Chapter 3.4-3.5 - Fouriers Method I", "3B",
+     "Chapter3_4", "", "Chapter3_4", "Chapter 3.4-3.5 - Fouriers Method I", "3B",
      ["29","35","39","41","42","45a","46","49a",
       "51","55","62","66","69","(30)","(32a)","(43+60)"]),
 
     ("Kapitel 4",
-     "Chapter4", "K4_", "Chapter4", "Chapter 4 - Fouriers Method II", "4",
+     "Chapter4", "", "Chapter4", "Chapter 4 - Fouriers Method II", "4",
      ["1","3","5","6","7","10","15","16",
       "17","20","(8)","(14)"]),
 
     ("Kapitel 5",
-     "Chapter5", "K5_", "Chapter5", "Chapter 5 - Green's Functions", "5",
+     "Chapter5", "", "Chapter5", "Chapter 5 - Green's Functions", "5",
      ["1","2","9","10","11","13","20","27",
       "28","(4)","(12)","(22)","(24)"]),
 
     ("Kapitel 7",
-     "Chapter7", "K7_", "Chapter7", "Chapter 7 - Radiating Waves", "7",
+     "Chapter7", "", "Chapter7", "Chapter 7 - Radiating Waves", "7",
      ["1","2","3","6","8ab","9","10","18",
       "(4)","(8c)"]),
 ]
