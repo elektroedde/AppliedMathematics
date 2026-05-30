@@ -14,6 +14,7 @@ to calculate $J_(3/2)(x)$
 (c) Show that $J'_0(x) = -J_1(x)$
 
 #solution[
+  (a) 
   The power series is 
   $
     J_nu (x) = (x/2)^nu sum_(k=0)^infinity 1/(k!Gamma(nu + k + 1))(- x^2/4)^k\
@@ -35,13 +36,13 @@ to calculate $J_(3/2)(x)$
     dv(,x) ((J_(1/2)(x))/x^(1/2)) = - (J_(3/2)(x))/x^(1/2)
   $
   $
-    dv(,x) ((J_(1/2)(x))/x^(1/2)) = dv(,x)((sqrt(2/(pi x)) sin x)/x^(1/2)) = dv(,x) (sqrt(2/pi)(sin x)/x) = sqrt(2/pi) (-1/x^2 sin x + 1/x cos x)\
+    dv(,x) ((J_(1/2)(x))/x^(1/2)) = dv(,x)((sqrt(2/(pi x)) sin x)/x^(1/2)) = dv(,x) (sqrt(2/pi)(sin x)/x) = sqrt(2/pi) ((x cos(x)- sin(x))/x^2)\
     arrow.b\
-    J_(3/2)(x) = x^(1/2) sqrt(2/pi)((sin x)/x^2 - x/x^2 cos x) = sqrt(2/pi)x^(3/2)((sin x - x cos x)/x^3)  
+    J_(3/2)(x) = - x^(1/2) dv(,x)((J_(1/2) (x))/x^(1/2)) = x^(1/2) sqrt(2/pi)((sin(x)-x cos(x))/x^2) = sqrt((2 x)/pi)((sin x - x cos x)/x^2)  
   $
 
   (c) Using the result from (a)
   $
-    dv(,x)((J_0(x))/x^0) = - (J_1(x))/x^0 arrow ans(J_0'(x) = -J_1(x))
+    dv(,x)((J_0(x))/x^0) = - (J_1(x))/x^0 arrow ans(J'_0(x) = -J_1(x))
   $
 ]

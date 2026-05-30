@@ -15,7 +15,7 @@ Solutions to problems from *Kontinuerliga System*. Each problem's solution is wr
 
 ## Progress
 
-**34 / 144 problems complete (23%)**
+**39 / 144 problems complete (27%)**
 
 ---
 
@@ -45,8 +45,8 @@ Solutions to problems from *Kontinuerliga System*. Each problem's solution is wr
 ### Kapitel S — Special Functions &nbsp;·&nbsp; 13 problems
 
 <table>
-<tr><td>1 ✅</td><td>5 ❌</td><td>7 ✅</td><td>11abc ✅</td><td>13 ✅</td><td>14 ✅</td><td>15 ❌</td><td>16 ❌</td></tr>
-<tr><td>18 ❌</td><td>20 ❌</td><td>(6) ❌</td><td>(11d) ✅</td><td>(12) ❌</td><td></td><td></td><td></td></tr>
+<tr><td>1 ✅</td><td>5 ✅</td><td>7 ✅</td><td>11abc ✅</td><td>13 ✅</td><td>14 ✅</td><td>15 ✅</td><td>16 ✅</td></tr>
+<tr><td>18 ✅</td><td>20 ✅</td><td>(6) ❌</td><td>(11d) ✅</td><td>(12) ❌</td><td></td><td></td><td></td></tr>
 </table>
 
 ### Kapitel D — Distributions &nbsp;·&nbsp; 22 problems

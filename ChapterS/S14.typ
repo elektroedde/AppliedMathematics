@@ -38,8 +38,7 @@ Determine the eigenvalues and eigenvectors of $cal(A)$.
   $
   which has the solutions (according to the definition of the Bessel's differential equation solutions):
   $
-    &a J_0(sqrt(lambda)x) + b Y_0(sqrt(lambda)x), "   " &&lambda > 0, nu=0 \
-    &a + b ln r,"   " &&lambda = nu = 0
+    &a J_0(sqrt(lambda)x) + b Y_0(sqrt(lambda)x), "   " &&lambda > 0, nu=0 
   $
   Since $Y_0$ is unbounded near $x=0$, $b$ has to be zero to fulfill the requirement of $u$ being bounded near zero.
 

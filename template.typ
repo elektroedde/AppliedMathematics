@@ -80,6 +80,8 @@ $
 #let lineintc(A) = $
                      integral.cont_P #A dot dif bold(l)
                    $
+#let neq(eq) = math.equation(block: true, numbering: "(1)", eq.body)
+
 #let ans(body) = box(
   baseline: 40%,
   fill: rgb("#fff9c4"),
